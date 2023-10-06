@@ -1,0 +1,13 @@
+C:\GitHub\NetCore\LeerData\bin\Debug\netcoreapp3.1\LeerData.exe
+C:\GitHub\NetCore\LeerData\bin\Debug\netcoreapp3.1\LeerData.deps.json
+C:\GitHub\NetCore\LeerData\bin\Debug\netcoreapp3.1\LeerData.runtimeconfig.json
+C:\GitHub\NetCore\LeerData\bin\Debug\netcoreapp3.1\LeerData.runtimeconfig.dev.json
+C:\GitHub\NetCore\LeerData\bin\Debug\netcoreapp3.1\LeerData.dll
+C:\GitHub\NetCore\LeerData\bin\Debug\netcoreapp3.1\LeerData.pdb
+C:\GitHub\NetCore\LeerData\obj\Debug\netcoreapp3.1\LeerData.csprojAssemblyReference.cache
+C:\GitHub\NetCore\LeerData\obj\Debug\netcoreapp3.1\LeerData.csproj.CoreCompileInputs.cache
+C:\GitHub\NetCore\LeerData\obj\Debug\netcoreapp3.1\LeerData.AssemblyInfoInputs.cache
+C:\GitHub\NetCore\LeerData\obj\Debug\netcoreapp3.1\LeerData.AssemblyInfo.cs
+C:\GitHub\NetCore\LeerData\obj\Debug\netcoreapp3.1\LeerData.dll
+C:\GitHub\NetCore\LeerData\obj\Debug\netcoreapp3.1\LeerData.pdb
+C:\GitHub\NetCore\LeerData\obj\Debug\netcoreapp3.1\LeerData.genruntimeconfig.cache
